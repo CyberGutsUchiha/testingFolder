@@ -1,0 +1,43 @@
+rchm-next/
+│
+├── app/
+│   ├── layout.jsx
+│   ├── page.jsx                (Home)
+│   │
+│   ├── about/
+│   │   └── page.jsx
+│   │
+│   ├── courses/
+│   │   └── page.jsx
+│   │
+│   ├── admissions/
+│   │   └── page.jsx
+│   │
+│   ├── departments/
+│   │   └── page.jsx
+│   │
+│   ├── campus-life/
+│   │   └── page.jsx
+│   │
+│   ├── placements/
+│   │   └── page.jsx
+│   │
+│   ├── news/
+│   │   └── page.jsx
+│   │
+│   ├── contact/
+│   │   └── page.jsx
+│   │
+│   ├── disclosures/
+│   │   └── page.jsx
+│   │
+│   └── login/
+│       ├── student/page.jsx
+│       ├── faculty/page.jsx
+│       └── admin/page.jsx
+│
+├── components/
+│   ├── Header.jsx
+│   └── Footer.jsx
+│
+└── package.json
